@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Pablo aka @ElPavlillo
-- 👀 I’m interested in programs/scripts that solve problems/optimize processes.
+- 🖤 I love programs/scripts that solve problems/optimize processes.
+- 👀 I’m interested in mechanical keyboards, space exploration.
 - 🌱 I’m currently learning TypeScript
 - ⌨ Corne split wired, Keychron K8 Pro ISO, Tofu60 ANSI
 - 🗣 Spanish, English
