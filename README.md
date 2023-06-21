@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Pablo Aka. @ElPavlillo
+- 👋 Hi, I’m Pablo aka @ElPavlillo
 - 👀 I’m interested in programs/scripts that solve problems/optimize processes.
 - 🌱 I’m currently learning TypeScript
 - ⌨ Corne split wired, Keychron K8 Pro ISO, Tofu60 ANSI
