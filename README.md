@@ -3,6 +3,7 @@
 - 👀 I’m interested in mechanical keyboards, space exploration.
 - 🌱 I’m currently learning TypeScript
 - ⌨ Corne split wired, Keychron K8 Pro ISO, Tofu60 ANSI
+- 💻 HP Microser Gen8 with Proxmox, TrueNAS
 - 🗣 Spanish, English
 
 <!---
